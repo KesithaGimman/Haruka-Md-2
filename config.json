@@ -14,7 +14,7 @@
     "auto_welcomeMsg": true,
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
-    "grupOnly": false,
+    "grupOnly": true,
     "antiDelete": true,
     "autobio": false,
     "anticall": true,
